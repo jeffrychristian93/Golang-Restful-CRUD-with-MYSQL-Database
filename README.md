@@ -1,7 +1,6 @@
 # Golang-Restful-CRUD-with-MYSQL-Database
 Sample Go Language for CRUD with restful service API
 
-
 Installation
 
 - Download main.go
@@ -27,4 +26,13 @@ Listening and serving HTTP on :8000
 - PUT    /api/user/:id             --> main.update
 - DELETE /api/user/:id             --> main.delete
 
-to be continued...
+______________________________________________________________________________________
+
+Source :
+- [Go Languange](https://golang.org/)
+- [Gin Framework](https://gin-gonic.github.io/gin/)
+- [Mysql Database](https://www.mysql.com/)
+
+Other projects in GO :
+- [Shortening URL](https://github.com/jeffrychristian93/Golang-Shortening-URL-Mysql)
+______________________________________________________________________________________
