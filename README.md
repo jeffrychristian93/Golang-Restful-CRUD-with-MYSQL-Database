@@ -1,13 +1,17 @@
 # Golang-Restful-CRUD-with-MYSQL-Database
+
+![Go Language](http://marcio.io/img/gopher.png?raw=true)
+
 Sample Go Language for CRUD with restful service API
 
 Installation
 
 - Download main.go
 - Edit your database connection on this code:
- - sql.Open("mysql", "root@tcp(127.0.0.1:3306)/db-example")
- - sql.Open("mysql", "username:password@tcp(yourIpAddress:port)/yourDataabse")
+  - sql.Open("mysql", "root@tcp(127.0.0.1:3306)/db-example")
+  - sql.Open("mysql", "username:password@tcp(yourIpAddress:port)/yourDataabse")
 - Run using this command -> go run main.go
+- Or use command -> "go build main.go" to generate executable file
 
 ______________________________________________________________________________________
 
@@ -35,4 +39,6 @@ Source :
 
 Other projects in GO :
 - [Shortening URL](https://github.com/jeffrychristian93/Golang-Shortening-URL-Mysql)
+
+Thank you..~
 ______________________________________________________________________________________
